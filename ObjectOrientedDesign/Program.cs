@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Suhyphen.OOD
+namespace ObjectOrientedDesign
 {
     public static class Program
     {
