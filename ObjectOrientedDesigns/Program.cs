@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ObjectOrientedDesign
+namespace ObjectOrientedDesigns
 {
     public static class Program
     {
