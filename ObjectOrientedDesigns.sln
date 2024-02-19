@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedDesign", "ObjectOrientedDesign\ObjectOrientedDesign.csproj", "{56D36A67-595C-4613-AA7B-6D9EA043D3E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedDesigns", "ObjectOrientedDesigns\ObjectOrientedDesigns.csproj", "{98188402-358B-4D6D-B216-E17B2F32C9B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56D36A67-595C-4613-AA7B-6D9EA043D3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56D36A67-595C-4613-AA7B-6D9EA043D3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56D36A67-595C-4613-AA7B-6D9EA043D3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56D36A67-595C-4613-AA7B-6D9EA043D3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98188402-358B-4D6D-B216-E17B2F32C9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98188402-358B-4D6D-B216-E17B2F32C9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98188402-358B-4D6D-B216-E17B2F32C9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98188402-358B-4D6D-B216-E17B2F32C9B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
